@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  👋Hi, My <img src = "https://profile-counter.glitch.me/ShanXDev424/count.svg"/> Visitor
+  👋Hi, My <img src = "https://profile-counter.glitch.me/hujingbin1/count.svg"/> Visitor
 </div>
 
 # I’m JingBin 🐼
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
