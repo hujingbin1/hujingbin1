@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 # I’m JingBin 🐼
 
-- 😋 I’m currently learning **Algorithm and Computer System**
-- 🧐 My research interests are **Speech and Multimodal Large Models**
-- 🤠 I can use **C++, Java, Python, Shell** programming language 
+- 😋 I’m currently learning **Algorithm and Computer System**.
+- 🧐 My research interests are **Speech and Multimodal Large Models**.
+- 🤠 I can use **C++, Java, Python, Shell** programming language.
 - 🤩 I want more **stars**！！！
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&layout=donut&hide=javascript,html,matlab /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab" /> 
 </div>
 
 <div align="center">
