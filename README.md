@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hujingbin1/hujingbin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujingbin1&show_icons=true&theme=radical)
 <div align="center"> 
   👋Hi, My <img src = "https://profile-counter.glitch.me/ShanXDev424/count.svg"/> Visitor
 </div>
 
-# I’m JingBin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I’m JingBin 🐼
 
-- 🌱 I’m currently learning **compiler**
-- 👯 Currently working in **Xi'an, China**
-- 🤔 I love **Reading, photography**
+- 😋 I’m currently learning **Algorithm and Computer System**
+- 🧐 My research interests are **Speech and Multimodal Large Models**
+- 🤠 I can use **C++, Java, Python, Shell** programming language 
+- 🤩 I want more **stars**！！！
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&theme=dracula" /> 
