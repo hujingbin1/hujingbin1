@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 - 🤩 I want more **stars**！！！
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab,jupyternotebook" /> 
 </div>
 
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab)](https://github.com/anuraghazra/github-readme-stats)
