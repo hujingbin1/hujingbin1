@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤩 I want more **stars**！！！
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab,Jupyter Notebook" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab,Jupyter&nbspNotebook" /> 
 </div>
 
 <div align="center">
