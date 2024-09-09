@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   👋Hi, My <img src = "https://profile-counter.glitch.me/hujingbin1/count.svg"/> Visitor
 </div>
 
-# I’m JingBin 🐼
+# I’m Jingbin Hu🐼
 
 - 😋 I’m currently learning **Algorithm and Computer System**.
 - 🧐 My research interests are **Speech and Multimodal Large Models**.
