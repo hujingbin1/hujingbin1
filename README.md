@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  👋Hi, My <img src = "https://profile-counter.glitch.me/hujingbin1/count.svg"/> Visitor
+  👋Hi
 </div>
 
 # I’m Jingbin Hu🐼
