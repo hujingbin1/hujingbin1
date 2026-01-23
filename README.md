@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  👋Hi
-</div>
 
-# I’m Jingbin Hu🐼
+# 👋Hi, I’m Jingbin Hu🐼
 
 - 😋 I’m currently learning **Algorithm and Computer System**.
 - 🧐 My research interests are **Speech and Multimodal Large Models**.
