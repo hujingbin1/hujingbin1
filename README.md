@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 🤠 I can use **C++, Java, Python, Shell** programming language.
 - 🤩 I want more **stars**！！！
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujingbin1&hide=javascript,html,matlab,JupyterNotebook" /> 
 </div>
 
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
